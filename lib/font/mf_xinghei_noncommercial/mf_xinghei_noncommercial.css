@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'mf_xinghei_noncommercial';
+    src: url('mfxinghei_noncommercial-bold.eot');
+    src: url('mfxinghei_noncommercial-bold.eot?#iefix') format('embedded-opentype'),
+         url('mfxinghei_noncommercial-bold.woff') format('woff'),
+         url('mfxinghei_noncommercial-bold.svg#mf_xinghei_noncommercialbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
